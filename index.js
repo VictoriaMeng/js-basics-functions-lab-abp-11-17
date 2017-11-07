@@ -1,6 +1,6 @@
 // Code your solution in this file!
 function calculateBlocks (start, end) {
-  return Math.abs(start - end)
+  return Math.abs(start - end);
 }
 
 function calculateFeet (blocks) {
